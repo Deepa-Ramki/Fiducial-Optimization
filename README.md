@@ -49,7 +49,7 @@ are the optimal fiducials.
 ## <div align="center">Methodology</div>
 
 <p align="center">
-  <img src=Figure_commonmark/Screenshot%202024-06-04%20161929.png>
+  <img src="Block Diagram.png">
 </p>
 <div align = "center">
   
