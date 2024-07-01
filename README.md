@@ -1,4 +1,4 @@
-<h1 align="center">EnPrO: Enhancing Precision Through
+<h1 align="center"> EnPrO: Enhancing Precision Through
 Optimization in Image-Guided Spine Surgical
 Procedures</h1>
 
@@ -83,4 +83,9 @@ cd Fiducial-Optimization
 <div align="center">
   <a href="https://www.mathworks.com/products/matlab.html">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="10%" /></a>
+</div>
+
+<div align="center">
+  
+**This repository contains the codebase. Please note that sample data is not included yet but will be made available soon.**
 </div>
